@@ -500,7 +500,7 @@ p {
   border-radius: 3px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 420px) {
   .resume-button {
     align-items: center;
     text-align: center;
